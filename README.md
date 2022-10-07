@@ -6,7 +6,7 @@ O NLW desse ano teve a ideia de criar um app para encontrar duplas em jogos onli
 
 # Web 💻
 
-Na versão web, forma usados o Vite, React, TypeScript e o TailWindCss.
+Na versão web, forma usados o Vite, React, TypeScript e o TailwindCSS.
 
 # Mobile 📱
 
