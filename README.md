@@ -6,12 +6,12 @@ O NLW desse ano teve a ideia de criar um app para encontrar duplas em jogos onli
 
 # Web 💻
 
-Na versão web, foram usados o Vite, React, TypeScript e o TailwindCSS.
+Na versão web, foram usados o [Vite](https://vitejs.dev/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/) e o TailwindCSS.
 
 # Mobile 📱
 
-Foram usados o Expo, React Native, TypeScript e CSS.
+Foram usados o [Expo](https://expo.dev/), [React Native](https://reactnative.dev/) e [TypeScript](https://www.typescriptlang.org/).
 
 # API 🗄
 
-Nela foi usado o Prisma, TypeScript e SQLite.
+Nela foi usado o [Prisma](https://www.prisma.io/), [TypeScript](https://www.typescriptlang.org/) e [SQLite](https://www.sqlite.org/).
